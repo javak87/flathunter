@@ -106,7 +106,7 @@ config.yaml
 .wdm/
 
 # Pip requirements - should not be committed
-requirements.txt
+#requirements.txt
 
 # OS files
 .DS_Store
